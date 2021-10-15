@@ -6,6 +6,8 @@ This app is a web store with the ability to add products to the shopping cart wi
 
 ## For the creating the app I used:
 
+- JavaScript, React
+
 - React Hook Form [https://react-hook-form.com/]
 
 - Product, cart, and checkout tooling for developers - Commerce.js [https://commercejs.com/]
@@ -18,8 +20,8 @@ This app is a web store with the ability to add products to the shopping cart wi
 
 ## To start app
 
-yarn
-yarn start
+- yarn
+- yarn start
 
 ---
 
