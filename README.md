@@ -1,10 +1,10 @@
-## Web Shop App
+# Web Shop App
 
 This app is a web store with the ability to add products to the shopping cart with a calculation of the total price of the all products. There is a full cycle of ordering products including payment in the app, for this was used [commerce.js/stripe].
 
 ---
 
-# For the creating the app I used:
+## For the creating the app I used:
 
 - React Hook Form [https://react-hook-form.com/]
 
@@ -16,7 +16,7 @@ This app is a web store with the ability to add products to the shopping cart wi
 
 ---
 
-# To start app
+## To start app
 
 yarn
 yarn start
