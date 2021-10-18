@@ -58,6 +58,7 @@ export const App = () => {
         newOrder
       );
       setOrder(incomingOrder);
+      refreshCart();
     } catch (error) {
       setErrorMessage(error.data.error.message);
     }
@@ -92,6 +93,7 @@ export const App = () => {
               order={order}
               onCaptureCheckout={handleCaptureCheckout}
               error={errorMessage}
+              refreshCart={refreshCart}
             />
           </Route>
         </Switch>
